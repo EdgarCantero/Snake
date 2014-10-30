@@ -170,7 +170,7 @@ function checkFoodCollision(snakeHeadX, snakeHeadY){
     }
 }
 function checkWallCollision(snakeHeadx, snakeHeadY){
-//    if(){
-//      
-//    }
+    if(snakeHeadX >= screenWidth){
+      
+   }
 }
