@@ -6,3 +6,28 @@ body {
 #game-screen{
    display: block; 
 }
+
+#gameOver{
+    position: absolute;
+    visibility: hidden;
+}
+
+h1, h3 {
+    font-family: 'Indie Flower', cursive;
+    color: red;
+    text-align: center;
+}
+
+.title{
+    font-size: 62px;
+    margin-bottom: 0px;
+}
+
+#restartButton{
+    border:2px solid white;
+    border-radius: 20px;
+}
+
+#restartButton:hover{
+    background-color: greenyellow;
+}
