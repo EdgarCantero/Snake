@@ -211,6 +211,6 @@ function showMenu(state) {
     }
 }
 
-function centerMenuPosition(menu) {
-    menu.style.top = (screenHeight / 2) + "px";
-}
+//function centerMenuPosition(menu) {
+//    menu.style.top = (screenHeight / 2) + "px";
+//}
